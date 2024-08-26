@@ -27,14 +27,15 @@ This Flask web application provides a simple interface to convert text into spee
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/sandeshpatel007/task01ByCTIS.git
-    cd your-repository
+    git clone https://github.com/sandeshPatel06/task1ByCTIS.git
+    cd task1ByCTIS
     ```
 
 2. **Create and Activate a Virtual Environment**:
 
     ```bash
     python -m venv venv
+    <br>
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
